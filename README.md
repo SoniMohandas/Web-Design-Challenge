@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# https://sonimohandas.github.io/Web-Design-Challenge/WebVisualizations
 The website consists of 7 pages, including:
 * A landing page containing: 
 o An explanation of the project.
