@@ -1,4 +1,4 @@
-# http://Web-Design-Challenge/WebVisualizations
+# http://Web-Design-Challenge/WebVisualizations/index.html
 The website consists of 7 pages, including:
 * A landing page containing: 
 o An explanation of the project.
