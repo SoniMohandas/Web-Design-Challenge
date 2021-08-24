@@ -1,4 +1,4 @@
-# http://Web-Design-Challenge/WebVisualizations/index.html
+# http://SoniMohandas.github.io/Web-Design-Challenge/WebVisualizations
 The website consists of 7 pages, including:
 * A landing page containing: 
 o An explanation of the project.
